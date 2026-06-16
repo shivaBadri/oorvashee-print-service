@@ -1,0 +1,9 @@
+{
+  "PRINT_SERVICE_URL": "https://your-print-service.railway.app",
+  "PRINTER_CLIENT_API_KEY": "change-this-local-printer-key",
+  "PRINTER_NAME": "POS90_COUNTER_1",
+  "WINDOWS_PRINTER_NAME": "POS-90",
+  "PRINT_MODE": "windows_raw",
+  "POLL_SECONDS": 1,
+  "DRY_RUN": true
+}
